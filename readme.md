@@ -2,9 +2,9 @@
 
 I'm Tatsuya Konishi (Japanese). I hold a Master's degree from the Graduate School of Information Science and Technology, The University of Tokyo.
 I'm working at [KDDI Research, Inc.](https://www.kddi-research.jp/english), a research institute of [KDDI Corporation](https://www.kddi.com/english/), one of Japan's major telecommunications companies.
-I have also joined [C3F](https://www.c3f-iu-university.com/) in which developers are contributing to Internet Computer ecosystem.
+I have also joined [C3F](https://www.c3f-iu-university.com/) in which developers are contributing to the Internet Computer ecosystem.
 
-My tech-interests include:
+My tech-interest includes:
 
 - Research
   - Continual learning
