@@ -28,6 +28,7 @@ My tech-interest includes:
 ## Continual Learning
 
 - [SPG](https://github.com/UIC-Liu-Lab/spg) (accepted in ICML2023)
+  - [Interview article](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00132/) on Nikkei Robotics
 
 ## Internet Computer
 
