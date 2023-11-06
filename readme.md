@@ -60,6 +60,7 @@ My tech-interest includes:
 As a first author:
 
 - **Tatsuya Konishi**, Mori Kurokawa, Chihiro Ono, Zixuan Ke, Gyuhak Kim, and Bing Liu. [Parameter-Level Soft-Masking for Continual Learning](https://proceedings.mlr.press/v202/konishi23a.html). In _Proc. of ICML_, 2023.
+- **Tatsuya Konishi&ast;**, Shuichiro Haruta&ast;, Mori Kurokawa, Kenta Tsukatsune, Yuto Mizutani, Tomoaki Saito, Hideki Asho, and Chihiro Ono. [CG-GNN: A Novel Compiled Graphs-based Feature Extraction Method for Enterprise Social Networks](https://dl.acm.org/doi/abs/10.1145/3592571.3592976). In _Proc. of ICDAR_, 2023.
 - **Tatsuya Konishi**, Mori Kurokawa, Chihiro Ono, Zixuan Ke, Gyuhak Kim, and Bing Liu. [Partially Relaxed Masks for Knowledge Transfer Without Forgetting in Continual Learning](https://dl.acm.org/doi/abs/10.1007/978-3-031-05933-9_29). In _Proc. of PAKDD_, 2022.
 - **Tatsuya Konishi**, Masatoshi Nagata, Masaru Honjo, Akio Yoneyama, Masayuki Kurokawa, and Koji Mishima. [Social Behaviors: A Social Topology and Interaction Pattern Affect the Properties of a Changed Behavior](https://link.springer.com/chapter/10.1007/978-3-030-17287-9_25). In _Proc. of Persuasive Technology_, 2019.
 - **Tatsuya Konishi**, Mikiya Maruyama, Kota Tsubouchi, and Masamichi Shimosaka. [Cityprophet: City-scale irregularity prediction using transit app logs](https://dl.acm.org/doi/10.1145/2971648.2971718). In _Proc. of UbiComp_, 2016.
