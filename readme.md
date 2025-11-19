@@ -59,37 +59,37 @@ My tech-interest includes:
 
 As a first author:
 
-- **Tatsuya Konishi**, Mori Kurokawa, Chihiro Ono, Zixuan Ke, Gyuhak Kim, and Bing Liu. [Parameter-Level Soft-Masking for Continual Learning](https://proceedings.mlr.press/v202/konishi23a.html). In _Proc. of ICML_, 2023.
-- **Tatsuya Konishi&ast;**, Shuichiro Haruta&ast;, Mori Kurokawa, Kenta Tsukatsune, Yuto Mizutani, Tomoaki Saito, Hideki Asho, and Chihiro Ono. [CG-GNN: A Novel Compiled Graphs-based Feature Extraction Method for Enterprise Social Networks](https://dl.acm.org/doi/abs/10.1145/3592571.3592976). In _Proc. of ICDAR_, 2023.
-- **Tatsuya Konishi**, Mori Kurokawa, Chihiro Ono, Zixuan Ke, Gyuhak Kim, and Bing Liu. [Partially Relaxed Masks for Knowledge Transfer Without Forgetting in Continual Learning](https://dl.acm.org/doi/abs/10.1007/978-3-031-05933-9_29). In _Proc. of PAKDD_, 2022.
-- **Tatsuya Konishi**, Masatoshi Nagata, Masaru Honjo, Akio Yoneyama, Masayuki Kurokawa, and Koji Mishima. [Social Behaviors: A Social Topology and Interaction Pattern Affect the Properties of a Changed Behavior](https://link.springer.com/chapter/10.1007/978-3-030-17287-9_25). In _Proc. of Persuasive Technology_, 2019.
-- **Tatsuya Konishi**, Mikiya Maruyama, Kota Tsubouchi, and Masamichi Shimosaka. [Cityprophet: City-scale irregularity prediction using transit app logs](https://dl.acm.org/doi/10.1145/2971648.2971718). In _Proc. of UbiComp_, 2016.
+1. **Tatsuya Konishi**, Mori Kurokawa, Chihiro Ono, Zixuan Ke, Gyuhak Kim, and Bing Liu. [Parameter-Level Soft-Masking for Continual Learning](https://proceedings.mlr.press/v202/konishi23a.html). In _Proc. of ICML_, 2023.
+1. **Tatsuya Konishi&ast;**, Shuichiro Haruta&ast;, Mori Kurokawa, Kenta Tsukatsune, Yuto Mizutani, Tomoaki Saito, Hideki Asho, and Chihiro Ono. [CG-GNN: A Novel Compiled Graphs-based Feature Extraction Method for Enterprise Social Networks](https://dl.acm.org/doi/abs/10.1145/3592571.3592976). In _Proc. of ICDAR_, 2023.
+1. **Tatsuya Konishi**, Mori Kurokawa, Chihiro Ono, Zixuan Ke, Gyuhak Kim, and Bing Liu. [Partially Relaxed Masks for Knowledge Transfer Without Forgetting in Continual Learning](https://dl.acm.org/doi/abs/10.1007/978-3-031-05933-9_29). In _Proc. of PAKDD_, 2022.
+1. **Tatsuya Konishi**, Masatoshi Nagata, Masaru Honjo, Akio Yoneyama, Masayuki Kurokawa, and Koji Mishima. [Social Behaviors: A Social Topology and Interaction Pattern Affect the Properties of a Changed Behavior](https://link.springer.com/chapter/10.1007/978-3-030-17287-9_25). In _Proc. of Persuasive Technology_, 2019.
+1. **Tatsuya Konishi**, Mikiya Maruyama, Kota Tsubouchi, and Masamichi Shimosaka. [Cityprophet: City-scale irregularity prediction using transit app logs](https://dl.acm.org/doi/10.1145/2971648.2971718). In _Proc. of UbiComp_, 2016.
 
 As a co-author:
 
-- Gyuhak Kim, Changnan Xiao, **Tatsuya Konishi**, and Bing Liu. [Learnability and Algorithm for Continual Learning](https://proceedings.mlr.press/v202/kim23x.html). In _Proc. of ICML_, 2023.
-- Zixuan Ke, Yijia Shao, Haowei Lin, **Tatsuya Konishi**, Gyuhak Kim, and Bing Liu. [Continual Pre-training of Language Models](https://arxiv.org/abs/2302.03241). In _Proc. of ICLR_, 2023.
-- Shuichiro Haruta, **Tatsuya Konishi**, and Mori Kurokawa. [A Novel Graph Aggregation Method Based on Feature Distribution Around Each Ego-node for Heterophily](https://proceedings.mlr.press/v189/haruta23a.html). In _Proc. of ACML_, 2023.
-- Gyuhak Kim, Changnan Xiao, **Tatsuya Konishi**, Zixuan Ke, and Bing Liu. [A Theoretical Study on Solving Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html). In _Proc. of NeurIPS_, 2022.
-- Roberto Legaspi, Wenzhen Xu, **Tatsuya Konishi**, Shinya Wada, and Yuichi Ishikawa. [Multidimensional Analysis of Sense of Agency During Goal Pursuit](https://dl.acm.org/doi/10.1145/3503252.3531303). In _Proc. of UMAP_, 2022.
-- Roberto Legaspi, Wenzhen Xu, **Tatsuya Konishi**, and Shinya Wada. [Positing a Sense of Agency-Aware Persuasive AI: Its Theoretical and Computational Frameworks](https://link.springer.com/chapter/10.1007/978-3-030-79460-6_1). In _Proc. of Persuasive Technology_, 2021.
-- Kenta Tsukatsune, **Tatsuya Konishi**, Yuto Mizutani, Mori Kurokawa, Shuichiro Haruta, and Tomoaki Saito. [Does Activeness Originate in Individuals or Groups? Analysis of the Interrelationships between Network Indices and Posts Using Multilevel Cross-Lagged Model](https://dl.acm.org/doi/10.1145/3498851.3498939). In _Proc. of WI-IAT_, 2021.
-- Ryo Imai, Kota Tsubouchi, **Tatsuya Konishi**, and Masamichi Shimosaka. [Early Destination Prediction with Spatio-temporal User Behavior Patterns](https://dl.acm.org/doi/abs/10.1145/3161197). In _Proc. of IMWUT_, 2018.
+1. Gyuhak Kim, Changnan Xiao, **Tatsuya Konishi**, and Bing Liu. [Learnability and Algorithm for Continual Learning](https://proceedings.mlr.press/v202/kim23x.html). In _Proc. of ICML_, 2023.
+1. Zixuan Ke, Yijia Shao, Haowei Lin, **Tatsuya Konishi**, Gyuhak Kim, and Bing Liu. [Continual Pre-training of Language Models](https://arxiv.org/abs/2302.03241). In _Proc. of ICLR_, 2023.
+1. Shuichiro Haruta, **Tatsuya Konishi**, and Mori Kurokawa. [A Novel Graph Aggregation Method Based on Feature Distribution Around Each Ego-node for Heterophily](https://proceedings.mlr.press/v189/haruta23a.html). In _Proc. of ACML_, 2023.
+1. Gyuhak Kim, Changnan Xiao, **Tatsuya Konishi**, Zixuan Ke, and Bing Liu. [A Theoretical Study on Solving Continual Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html). In _Proc. of NeurIPS_, 2022.
+1. Roberto Legaspi, Wenzhen Xu, **Tatsuya Konishi**, Shinya Wada, and Yuichi Ishikawa. [Multidimensional Analysis of Sense of Agency During Goal Pursuit](https://dl.acm.org/doi/10.1145/3503252.3531303). In _Proc. of UMAP_, 2022.
+1. Roberto Legaspi, Wenzhen Xu, **Tatsuya Konishi**, and Shinya Wada. [Positing a Sense of Agency-Aware Persuasive AI: Its Theoretical and Computational Frameworks](https://link.springer.com/chapter/10.1007/978-3-030-79460-6_1). In _Proc. of Persuasive Technology_, 2021.
+1. Kenta Tsukatsune, **Tatsuya Konishi**, Yuto Mizutani, Mori Kurokawa, Shuichiro Haruta, and Tomoaki Saito. [Does Activeness Originate in Individuals or Groups? Analysis of the Interrelationships between Network Indices and Posts Using Multilevel Cross-Lagged Model](https://dl.acm.org/doi/10.1145/3498851.3498939). In _Proc. of WI-IAT_, 2021.
+1. Ryo Imai, Kota Tsubouchi, **Tatsuya Konishi**, and Masamichi Shimosaka. [Early Destination Prediction with Spatio-temporal User Behavior Patterns](https://dl.acm.org/doi/abs/10.1145/3161197). In _Proc. of IMWUT_, 2018.
 
 ## Patents (in the company's name)
 
-- [JP.2025140805.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7764660/15/ja)
-- [JP.2025099630.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7723868/15/ja)
-- [JP.2025077720.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7710634/15/ja)
-- [JP.2024118759.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7698774/15/ja)
-- [JP.2024118758.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7680610/15/ja)
-- [JP.2022179070.A, US.202217939215.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-037650/11/ja)
-- [JP.2023064200.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-064200/11/ja)
-- [JP.7279225.B2, US.2023086727.A1](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7279225/15/ja)
-- [JP.2023030306.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-030306/11/ja)
-- [JP.2022154041.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-154041/11/ja)
-- [JP.7237895.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7237895/15/ja)
-- [JP.2022016277.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-016277/11/ja)
-- [JP.7282052.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7282052/15/ja)
-- [JP.7296905.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7296905/15/ja)
-- [JP.7328162.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-125013/11/ja)
+1. [JP.2025140805.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7764660/15/ja)
+1. [JP.2025099630.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7723868/15/ja)
+1. [JP.2025077720.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7710634/15/ja)
+1. [JP.2024118759.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7698774/15/ja)
+1. [JP.2024118758.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7680610/15/ja)
+1. [JP.2022179070.A, US.202217939215.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-037650/11/ja)
+1. [JP.2023064200.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-064200/11/ja)
+1. [JP.7279225.B2, US.2023086727.A1](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7279225/15/ja)
+1. [JP.2023030306.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-030306/11/ja)
+1. [JP.2022154041.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-154041/11/ja)
+1. [JP.7237895.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7237895/15/ja)
+1. [JP.2022016277.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-016277/11/ja)
+1. [JP.7282052.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7282052/15/ja)
+1. [JP.7296905.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7296905/15/ja)
+1. [JP.7328162.B2](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-125013/11/ja)
