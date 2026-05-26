@@ -78,6 +78,7 @@ As a co-author:
 
 ## Patents (in the company's name)
 
+1. [JP.2025147204.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7824476/15/ja)
 1. [JP.2025140805.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7764660/15/ja)
 1. [JP.2025099630.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7723868/15/ja)
 1. [JP.2025077720.A](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7710634/15/ja)
